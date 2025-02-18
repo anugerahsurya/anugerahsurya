@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 Saya berkuliah di **Politeknik Statistika STIS** <br>
 
 Saya seorang Mahasiswa Prodi **D-IV Komputasi Statistika** <br>
+
 Saya tertarik dengan AI khususnya **Computer Vision** <br>
+
 Saya suka mendengarkan musik dan bermain game<br>
+
 Jika kamu tertarik, bisa kunjungi **playlist spotify ini [sebat n chillz](https://open.spotify.com/playlist/5ERYf3hHecgyRli8OBy5wl?si=ce972291105a47bc)** <br>
+
 Saya suka bermain **Genshin Impact** dan **Mobile Legend**
+
+
 
 
