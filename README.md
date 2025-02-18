@@ -25,8 +25,15 @@ Saya suka mendengarkan musik dan bermain game<br>
 
 Jika kamu tertarik, bisa kunjungi **playlist spotify ini [sebat n chillz](https://open.spotify.com/playlist/5ERYf3hHecgyRli8OBy5wl?si=ce972291105a47bc)** <br>
 
-Saya suka bermain **Genshin Impact** dan **Mobile Legend**
+Saya suka bermain **Genshin Impact** dan **Mobile Legend** <br>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
 
