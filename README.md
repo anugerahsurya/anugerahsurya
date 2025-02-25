@@ -27,13 +27,21 @@ Jika kamu tertarik, bisa kunjungi **playlist spotify ini [sebat n chillz](https:
 
 Saya suka bermain **Genshin Impact** dan **Mobile Legend** <br>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/anugerahsurya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anugerahsurya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anugerahsurya&layout=compact&layout=compact&theme=algolia"/>
-</a>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/anugerahsurya">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anugerahsurya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugerahsurya&layout=compact&theme=dark"/>
+  </a>
 </p>
+
+<!-- Optional: Tambahkan Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugerahsurya&theme=dark" alt="GitHub Streak"/>
+</p>
+
+
 
 
 
