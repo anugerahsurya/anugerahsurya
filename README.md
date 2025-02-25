@@ -36,11 +36,6 @@ Saya suka bermain **Genshin Impact** dan **Mobile Legend** <br>
   </a>
 </p>
 
-<!-- Optional: Tambahkan Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugerahsurya&theme=dark" alt="GitHub Streak"/>
-</p>
-
 
 
 
